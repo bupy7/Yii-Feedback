@@ -35,7 +35,7 @@ $this->widget(
 + Support PHPMailer.
 + Russian language.
 + Transition to anchor after send mail.
-+ Title in config options for feedback form.
++ "title" in config options for feedback form.
 
 ###### Removed:
 + "position" from config options.
