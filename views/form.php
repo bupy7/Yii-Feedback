@@ -65,6 +65,7 @@
         $feedbackForm, 
         'message',
         array(
+            'rows' => 5,
             'class' => 'span7',
         )
     );
