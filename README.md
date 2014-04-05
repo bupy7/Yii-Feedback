@@ -4,7 +4,7 @@ Yii-Feedback
 Yii-Feedback - this is extension for send email from Yii. This modification extension YiiFeedbackWidget https://github.com/gazbond/YiiFeedbackWidget.
 
 ### Install
-Download or close the files from repository https://github.com/PHPMailer/PHPMailer to your extensions directory:
+Download or clone the files from repository https://github.com/PHPMailer/PHPMailer to your extensions directory:
 ```
 [app-root]/protected/extensions/phpmailer/
 ```
