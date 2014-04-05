@@ -1,0 +1,9 @@
+#feedback {
+    padding-top: 10px;
+}
+
+#feedback > .title {
+    font-size: 48px;
+    font-family: 'comic sans ms', cursive;
+    margin-bottom: 48px;
+}
