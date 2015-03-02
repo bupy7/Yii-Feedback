@@ -8,6 +8,8 @@ Yii-Feedback - this is extension for send email from Yii. This modification exte
 - YiiBooster 3.0.1 https://github.com/clevertech/YiiBooster/tree/3.0.1
 
 ### Install
+Install YiiBooster https://github.com/clevertech/YiiBooster/blob/3.0.1/INSTALL.md
+
 Download or clone the files from repository https://github.com/PHPMailer/PHPMailer to your extensions directory:
 ```
 [app-root]/protected/extensions/phpmailer/
